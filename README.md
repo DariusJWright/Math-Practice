@@ -1,2 +1,2 @@
 # Math-Practice
-An app for learners to practice basic math problems
+A simple app for learners to practice basic multiplication problems
