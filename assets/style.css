@@ -34,6 +34,10 @@ input {
   height: 55px;
   margin-top: 15px;
   background: cyan;
+  padding: 5px;
+  font-size: 40px;
+  text-align: center;
+  outline: none;
 }
 
 button {
