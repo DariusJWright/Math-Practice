@@ -20,6 +20,7 @@ const checkAnswer = () => {
     window.location.reload();
   }
 };
+
 checkButtonEl.addEventListener('click', checkAnswer);
 answerEl.addEventListener('keyup', function(e) {
   if (e.keyCode === 13) {
